@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kSIuDz9dGrQlWlKJnk1jAaSIZ8Dhg5p5hn5+5F1i6cR2G6NzDsQLCflUTt3rzkqZ7nxW9gzL2iBSvmJc8hry1A==",
+  "dgSpecHash": "xYJcVo9E/CJJ6vgVAUD3aJ/+WUVd5E6mQogE16cMmU9tBFdZY+iFhhqP/b2sgwI534zZGw7qCXvCEzFFZ0Edxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj",
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.31\\microsoft.entityframeworkcore.6.0.31.nupkg.sha512",

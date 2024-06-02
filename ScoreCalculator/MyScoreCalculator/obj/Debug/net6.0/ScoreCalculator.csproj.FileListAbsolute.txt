@@ -1,0 +1,15 @@
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0\ScoreCalculator.exe
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0\ScoreCalculator.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0\ScoreCalculator.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0\ScoreCalculator.dll
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\bin\Debug\net6.0\ScoreCalculator.pdb
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.sourcelink.json
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.dll
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\refint\ScoreCalculator.dll
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.pdb
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ScoreCalculator.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\AssessmentCoureTech\ScoreCalculator\ScoreCalculator\obj\Debug\net6.0\ref\ScoreCalculator.dll

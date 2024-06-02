@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj": {}
+    "C:\\Users\\ZBOOK 14U G6\\Desktop\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj": {
+    "C:\\Users\\ZBOOK 14U G6\\Desktop\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj",
+        "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\Desktop\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj",
         "projectName": "CountryOperators.Model",
-        "projectPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj",
+        "projectPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\Assessment\\CountryOperators\\CountryOperators.Model\\CountryOperators.Model.csproj",
         "packagesPath": "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\Assessment\\CountryOperators\\CountryOperators.Model\\obj\\",
+        "outputPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\Assessment\\CountryOperators\\CountryOperators.Model\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\ZBOOK 14U G6\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -80,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
